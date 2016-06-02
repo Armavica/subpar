@@ -1,0 +1,8 @@
+[package]
+name = "subpar"
+version = "0.1.0"
+authors = ["Virgile Andreani <virgile.andreani@anbuco.fr>"]
+
+[dependencies]
+docopt = "0.6"
+rustc-serialize = "0.3"
