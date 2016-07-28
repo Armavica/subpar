@@ -1,5 +1,7 @@
 # subpar
 
+[![Build status](https://travis-ci.org/Armavica/subpar.svg?branch=master)](https://travis-ci.org/Armavica/subpar)
+
 Subpar is a filter for paragraph reformatting.
 
 It is similar in purpose to [fmt](https://www.gnu.org/software/coreutils/fmt)
